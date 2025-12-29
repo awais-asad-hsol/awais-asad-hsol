@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and experienced full- stack Laravel developer with over 5 years of hands-on experience in building robust web applications. With a strong foundation in Laravel, I possess a deep understanding of backend development and database management. Additionally, I have 2 years of professional experience working as a NodeJs developer, where I gained expertise in developing scalable and efficient server- side applications. I am dedicated to delivering high-quality code, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends
+I am a passionate and experienced full- stack Laravel developer with over 6 years of hands-on experience in building robust web applications. With a strong foundation in Laravel, I possess a deep understanding of backend development and database management. Additionally, I have 2 years of professional experience working as a NodeJs developer, where I gained expertise in developing scalable and efficient server- side applications. I am dedicated to delivering high-quality code, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I am a passionate and experienced full- stack Laravel developer with over 5 year
 ![](https://github-readme-stats.vercel.app/api?username=awais-asad-hsol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=awais-asad-hsol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-asad-hsol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=awais-asad-hsol&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
