@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a passionate and experienced full- stack Laravel developer with over 6 years of hands-on experience in building robust web applications. With a strong foundation in Laravel, I possess a deep understanding of backend development and database management. Additionally, I have 2 years of professional experience working as a NodeJs developer, where I gained expertise in developing scalable and efficient server- side applications. I am dedicated to delivering high-quality code, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends
+I am a full-stack software engineer with 6+ years of experience building scalable and secure web applications across diverse domains. I focus on backend-centric systems complemented by modern frontend architectures to deliver reliable and user-friendly products.
 
+My experience includes API design, authentication and authorization systems (including SSO), and full-stack development using contemporary tools and best practices. In recent projects, I have worked extensively with Vue.js and Inertia.js to deliver seamless SPA-like experiences on top of Laravel, while also adopting other modern full-stack technologies to build performant, production-ready applications.
+
+I also have hands-on experience integrating AI-powered features such as chatbots, automation workflows, and AI agents, and I continuously apply current engineering practices to build future-ready software solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awais_asad94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awais-asad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awaisasad20@gmail.com) 
