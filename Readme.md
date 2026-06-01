@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a full-stack software engineer with 6+ years of experience building scalable and secure web applications across diverse domains. I focus on backend-centric systems complemented by modern frontend architectures to deliver reliable and user-friendly products.
+I am a Lead Full-Stack Engineer with 7+ years of experience designing, developing, and scaling SaaS platforms, enterprise web applications, and secure authentication systems. Specialized in Laravel, Vue.js, Node.js, and modern full-stack architectures, with a strong focus on scalability, security, and maintainability.
 
-My experience includes API design, authentication and authorization systems (including SSO), and full-stack development using contemporary tools and best practices. In recent projects, I have worked extensively with Vue.js and Inertia.js to deliver seamless SPA-like experiences on top of Laravel, while also adopting other modern full-stack technologies to build performant, production-ready applications.
+Proven experience leading technical initiatives, architecting Single Sign-On (SSO) solutions, implementing Multi-Factor Authentication (MFA), designing RESTful APIs, and modernizing legacy applications. Experienced in mentoring developers, driving technical decisions, and delivering high-quality software across multiple business domains.
 
-I also have hands-on experience integrating AI-powered features such as chatbots, automation workflows, and AI agents, and I continuously apply current engineering practices to build future-ready software solutions.
+Passionate about building reliable, secure, and future-ready systems while leveraging AI-powered solutions, automation workflows, and modern engineering practices to solve complex business challenges.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awais_asad94) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awais-asad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awaisasad20@gmail.com) 
